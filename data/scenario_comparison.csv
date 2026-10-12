@@ -1,0 +1,4 @@
+Scenario,Grid_Import_kWh
+Grid Only,36.7
+Grid + Solar PV,15.82
+Grid + Solar PV + Battery,6.688599999999999

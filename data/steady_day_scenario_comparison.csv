@@ -1,0 +1,4 @@
+Scenario,Grid_Import_kWh,Grid_Reduction_pct
+Grid Only,36.7,0.0
+Grid + Solar PV,15.82,56.89373297002726
+Grid + Solar PV + Battery,9.5386,74.0092643051771
